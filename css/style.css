@@ -478,5 +478,5 @@ input[type="search"]:focus {
 .adv_btn:active{
     background-color: #998675;
     color: #fff;
-    transform: scale(1.05);
+    transform: scale(1.1);
 }
